@@ -78,13 +78,15 @@ nav ul a li{
     border-radius: 30%;
 }
 .head1{
-    font-size: 30px;
+    font-size: 35px;
     font-family: 'Cairo', sans-serif;
     display: block;
+    text-align: center;
 }
 .head2{
-    font-size: 30px;
+    font-size: 35px;
     font-family: 'Cairo', sans-serif;
+    text-align: center;
 }
 .text1{
     text-align: justify;
